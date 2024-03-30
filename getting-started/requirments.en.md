@@ -5,9 +5,9 @@ weight: 1
 
 {{<badge `gray` `Interactive tutorial 🔥`>}}
 
-## Get Started With Docbox
+## Oh yes indeed
 
-Pellen tesque in ipsum id orci porta dapibus. Sed port titor lectus nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed suscipit tortor Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt.
+This might work quite well. Already, the file is autosaving and the docbox is auto-spinning. Quite incredible
 
 {{<card-cta-wrapper>}}
 {{<card-cta title=`Learn the basic by building simple site` image="images/illustrations/illustration-2.png" label=`Try the Tutorial` link="#docbox-installation">}}

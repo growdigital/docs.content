@@ -1,5 +1,5 @@
 ---
-title: "Installation"
+title: Dark heart hunting
 weight: 2
 ---
 
